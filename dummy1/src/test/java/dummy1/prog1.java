@@ -7,6 +7,7 @@ public class prog1 {
 		System.out.println("Hi");
 		System.out.println("Hello");
 		System.out.println("every one");
+		System.out.println("fourth line");
 
 	}
 
